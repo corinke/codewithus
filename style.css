@@ -2,11 +2,11 @@
   background-color: #1695A3;
 }
 
-li.navbar{
+li{
   display: inline;
 }
 
-li a.navbar{
+li a{
   display: block;
  padding: 5px;
 }
