@@ -2,6 +2,10 @@
   background-color: #1695A3;
 }
 
+.navbar li{
+  background-color: #000;
+}
+
 li{
   display: inline;
    padding: 10px 5px 0px 5px;
