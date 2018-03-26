@@ -3,23 +3,14 @@
 }
 
 .navbar li{
-  background-color: #000 !important;
-}
-
-li{
-  display: inline;
+  display: inline !important;
    padding: 10px 5px 0px 5px;
 }
 
-li a{
-
- color: #fff;
-}
-
-li a:hover{
+.navbar a:hover{
   color: #fff;
   background-color: #1695A3;
-  
+
 }
 
 body {
