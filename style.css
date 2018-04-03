@@ -69,12 +69,16 @@ h2{
    text-align: center;
 }
 
+
+
 .jumbotron{
 margin-top: 10px;
 background-image: url("images/jumbotron_image.jpg");
-  background-repeat: no-repeat;
+background-repeat: no-repeat;
 }
-
+.jumbotron h3{
+  color: #fff;
+}
 
 #sitelogo{
 background-image: url("/images/CWU_logo.png");
@@ -88,3 +92,4 @@ border-top: 10px;
 border-color: #F3FFE2;
 
 }
+
