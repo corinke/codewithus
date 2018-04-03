@@ -72,6 +72,7 @@ h2{
 .jumbotron{
 margin-top: 10px;
 background-image: url("images/jumbotron_image.jpg");
+  background-repeat: no-repeat;
 }
 
 
