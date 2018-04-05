@@ -180,6 +180,7 @@ padding: 8px 11px 8px 11px;
 }
 
 .panel-default>.panel-heading{
-background-color: #ACF0F2;
-color: black;  
+background-color: #106D78;
+color: white;  
+border-color: #F3FFE2;  
 }
