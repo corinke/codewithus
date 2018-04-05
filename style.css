@@ -179,7 +179,7 @@ padding: 8px 11px 8px 11px;
 
 }
 
-.panel-heading{
+.panel-default>.panel-heading{
 background-color: #ACF0F2;
 color: black;  
 }
