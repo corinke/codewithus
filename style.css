@@ -144,19 +144,34 @@ padding-top: 20px;
 
 }
 
-footer>li{
+footer li{
   display: inline;
   margin-right: 20px;
   padding-right: 20px;
   color: white !important;
 }
 
-footer>a:hover{
+footer a:link{
+  color: #fff !important;
+  opacity: 0.8;
+  text-decoration: none !important;
+}
+footer a:visited{
   color: #fff !important;
   opacity: 0.8;
   text-decoration: none !important;
 }
 
+footer a:hover{
+  color: #fff !important;
+  opacity: 0.8;
+  text-decoration: none !important;
+}
+footer a:active{
+  color: #fff !important;
+  opacity: 0.8;
+  text-decoration: none !important;
+}
 
 .fa {
  font-size: 20px;
