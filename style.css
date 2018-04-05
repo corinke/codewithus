@@ -184,3 +184,10 @@ background-color: #106D78;
 color: white;  
 border-color: #F3FFE2;  
 }
+
+.panel-heading a{
+color: white;  
+}
+.panel-heading a:hover{
+color: white;  
+}
