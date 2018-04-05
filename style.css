@@ -151,7 +151,7 @@ footer li{
   color: white !important;
 }
 
-footer li a:hover{
+footer a:hover{
   color: #fff !important;
   opacity: 0.8;
   text-decoration: none !important;
