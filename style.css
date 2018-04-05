@@ -148,7 +148,7 @@ footer li{
   display: inline;
   margin-right: 20px;
   padding-right: 20px;
-  color: white;
+  color: white !important;
 }
 
 footer li a:hover{
