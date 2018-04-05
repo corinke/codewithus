@@ -1,5 +1,6 @@
 body{
 font-family: 'Roboto', sans-serif;
+color: black;  
 
 }
 
@@ -38,6 +39,10 @@ opacity: 1;
 cursor: pointer;
 }
 
+.navbar li a{
+ color: #fff;
+}
+
 h1 {
 color: orange !important;
 
@@ -48,14 +53,7 @@ text-align: center;
 
 }
 
-li{
-  display: inline-block;
-   padding: 10px 15px 0px 15px;
-}
 
-li a{
- color: #fff;
-}
 
 header{
 padding: 20px 0px 25px 0px;
