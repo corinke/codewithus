@@ -199,6 +199,7 @@ border-color: #F3FFE2;
 
 .panel-heading a{
 color: white;  
+font-weight:700;  
 }
 .panel-heading a:hover{
 color: white;  
